@@ -1,0 +1,155 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+    /* NOW styling  */
+    body {
+        background-color: lightslategray;
+    }
+    
+    
+    #title{
+        background-color: black;
+       color: white ;
+       text-align: center;  
+       
+    }
+   
+        h1{
+text-align: center;
+            
+        }
+       #aboutmeee{ background-color:purple;
+    border: 2px solid black;
+  outline: yellow solid 10px;
+  margin: auto;  
+  padding: 20px;
+   text-align: center;
+   color: white;
+       }
+        #aboutme {
+            background-color: pink;
+            font-family: cursive; lucida;
+            text-align: center;
+           
+             }
+             #aboutmee{ 
+            background-color: pink;
+            font-family: cursive; lucida;
+            text-align: center;
+           }
+#education {
+    background-color: pink;
+    font-family: cursive; lucida;
+            text-align: center;
+}
+#edutitle {
+    background-color: purple;
+    border: 2px solid black;
+  outline: yellow solid 10px;
+  margin: auto;  
+  padding: 20px;
+   text-align: center;
+   color: white;
+}
+#skilltitle{
+    background-color: purple;
+    border: 2px solid black;
+  outline: yellow solid 10px;
+  margin: auto;  
+  padding: 20px;
+   text-align: center;
+   color: white;
+}
+#skill{
+    background-color: pink;
+    font-family: cursive; lucida;
+            text-align: center; 
+            width: 100%;
+}  
+#achievetitle{
+    background-color: purple;
+    border: 2px solid black;
+  outline: yellow solid 10px;
+  margin: auto;  
+  padding: 20px;
+   text-align: center;
+   color: white;
+}
+#achieve{
+    background-color: pink;
+    font-family: cursive; lucida;
+            text-align: center; 
+}  
+#hobbytitle{
+    background-color: purple;
+    border: 2px solid black;
+  outline: yellow solid 10px;
+  margin: auto;  
+  padding: 20px;
+   text-align: center;
+   color: white;
+}
+#hobby{
+    background-color: pink;
+    font-family: cursive; lucida;
+            text-align: center; 
+}  
+#thankstitle{
+    background-color: purple;
+    border: 2px solid black;
+  outline: yellow solid 10px;
+  margin: auto;  
+  padding: 20px;
+   text-align: center;
+   color: white;
+}
+
+</style>
+</head>
+<body>
+    <h1 id="title">  Manshi  Kumari <br>
+       IGDTUW - Electronics and communication Engineering  </h1>
+    <h1 id="aboutmeee"> About Me </h1>
+    <h2 id="aboutme">
+     Hello everyone !!, I am  Manshi Kumari, I am pursuing  my<br/> bachelors Degree in Electronics and communication<br/> Engineering From Indira Gandhi  Delhi Technical<br/> University For Women <br/>(One of the top engineering college in india) <br/>in India . <br/><br/><br/>I am a person who ready to explore new things .<br/> Right now i am interested in coding ,<br/><br/><br/> software design and development 
+     i am learning data structure , web development , also i have a basic knowledge about thumbnail designing or poster designing. i would love to explore myself in technical world so that through my skills i will give something revolutionary (in terms of human and nature development technology) to the world.</h2>.
+</h2>
+<h1 id="edutitle"> Education</h1>
+<h2 id="education"> <br/> I completed my primary schooling from Bihar and Delhi. I have done class 10 from Sarvodya Kanya Vidyalaya Deendarpur New Delhi , in class 10 i got 9.8 CGPA in percentage its 93.1% . During my schooling in S.K.V , i participated in lots of mental maths competition  , science exhibition and other academic things , also in extra curricular activities i participated in group singing competition.
+Later on , i completed my class 12 from Rajkiya Pratibha Vikas Vidyalaya Sec-19 , and got 94% aggregate with Full marks (100) in chemistry . there also i participated in various academic competition , after that i prepare for jee main and through jee i got admission in IGDTUW in ECE .</h2>
+<h1 id="skilltitle"> Skills </h1>
+<h2 id="skill"> <ul><li>• HTML (Hypertext Markup Language) </li>
+    <li> • CSS (Cascading Style Sheets)</li>
+    <li> • DBMS (Database Management System)</li>
+    <li>• DSA (Data Structure And Algorithm)</li>
+        <li> • Oops (Object-Oriented Programming)</li>
+            <li> • Technical Language (C++)</li>
+                <li> • Language (Hindi , English)</li>
+                    <li>• Leadership , Public Relation , Active Listener </li>
+          Teamwork , Time Managemnt , Communication skill  </h2></ul>
+
+          <h1 id="achievetitle"> Achievements</h1>
+<h2 id="achieve"> <ul><li>• OVERALL TOPPER: Awarded with certificate for being overall topper of School all over the section in 12th board.</li>
+    <li>• FULL MARKS IN CHEMISTRY : Got full marks (100/100) in chemistry in class 12 board.</li>
+    <li>• AWARD MONEY : Got 20,000/- Rs as Prize Money For Scoring Full (100/100) in chemistry. </a></li>
+    <li>• HACKERRANK: Achieved 3 star rating in C++ and 2 star rating in problem solving skills. <a href="https://www.hackerrank.com/kane22082000?hr_r=1" target="_main"> HACKERRANK </a></li>
+    <li>• JEE MAINS-ENTRANCE EXAM: Ranked among the top 6% students out of 10 lakh students in mathematics (2020).</li>
+    <li>• CERTIFICATE OF ACHIEVEMENT : Awarded cash prize of 2000/- Rs for getting 3rd position/rank in ‘COVID WARRIOR
+                                   SUCCESS STORIES 2021’ Organised by IGDTUW. <a href="https://drive.google.com/file/d/1qM0BpAameA_J2OM5PvtbXKh25y68LcF2/view" target="_main"> CERTIFICATE</a> </li>
+    <li>• PROGRAMMING WITH PYTHON (INTERNSHALA): Completed 6 weeks of python training program and scored 95%
+                                              Marks in final assessment. <a href="https://drive.google.com/file/d/1WW3MBFy9epijgJ4ieE7pc7Z4f-19JQ2O/view" target="_main"> CERTIFICATE</a></li>
+    <li>• GOOGLE CLOUD PROGRAM : Completed 30 days of Google Cloud Program Successfully and received google swags
+                             With appreciation certificate. <a href="https://drive.google.com/file/d/1iCoJPUgtiyMjWxy1EtpdV1oyvBEnGfC-/view" target="_main"> CERTIFICATE</a></li>
+     <li> • CERTIFICATE : Got certificate for Mental Mathematics Competition in 8th , 9th and 10th respectively.</li></ul><br/></h2>
+
+     <h1 id="hobbytitle"> Hobbies </h1>
+<h2 id="hobby"> <br/> I love listening music like i like all type of music old , new , songs in diffrent languages  , travelling with friends and family oh hilly area or somewhere that is connected to nature  , also i love to see dance performances specially hip-hop , i love doing maths problem , from school time Maths is my most favourite subject ,  i love watching movies specially Horror , science fiction , or suspense movies . and still i am exploring myself , just i want to see the beautiful world that is created by the god .</h2>
+
+
+<h1 id="thankstitle"> Thank you so much for giving your precious time . Have a nice Day  </h1>
+
+
+
+     
+</body>
